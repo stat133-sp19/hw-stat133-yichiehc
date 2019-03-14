@@ -1,5 +1,5 @@
 # GSW Shot Charts  
-
+  
 This is a workout assignment from [STAT133]Concepts in Computing with Data.  
   
 This report works on some shooting data of the NBA team Golden State Warriors' five main athletes during the 2016-2017 regular season. From this report, you will see the analysis on who the best clutch performer is on this team from the perspective of effective shooting percentages.  
@@ -8,7 +8,7 @@ This report works on some shooting data of the NBA team Golden State Warriors' f
   
   
 ### **File Structures**  
-
+  
 **README.md**  
 **code/** Includes two .R files. The files are scripts for data preparation and making shot charts.  
 **data/** Includes six .csvfiles and a data-dictionary.md file explaining the variables of shots-data.csv.  
