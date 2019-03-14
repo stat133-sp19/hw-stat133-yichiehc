@@ -1,7 +1,7 @@
 ---
 title: "Warm-Up 01 Markdown Syntax"
 author: "Yi Chieh Chen"
-output: html_document
+output: github_document
 ---
 
 
