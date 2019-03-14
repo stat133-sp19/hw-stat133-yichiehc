@@ -4,7 +4,7 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Yi Chieh Chen
 - Github username: yichiehc
-- Email: yichieh@berkeley.edu
+- Email: yichieh [@] berkeley.edu
 - Lab section: 104
 - GSI: Colin Kou
 
