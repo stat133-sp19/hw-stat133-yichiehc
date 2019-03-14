@@ -25,10 +25,17 @@ This report works on some shooting data of the NBA team Golden State Warriors' f
 * Intruduction  
 * Data  
 * Analysis  
+<<<<<<< HEAD
 1. Effective Shooting Percentage  
 2. Shot Charts  
 3. Effective Shooting Percentage of Last 5 Minutes  
 * Conclution  
+=======
+  1. Effective Shooting Percentage  
+  2. Shot Charts  
+  3. Effective Shooting Percentage of Last 5 Minutes  
+* Conclusion  
+>>>>>>> 67ed02c7174781b7c32cc04a6274cb5d6daa94be
 * References  
   
 ***  
@@ -44,6 +51,10 @@ Yi Chieh Chen
 2. From the analytics point of view, this HW involves visualizing shot data of NBA players. More especifically, you will be producing so-called “shot charts” for a handful of players from the Golden State Warriors, as well as other summaries and visualizations.  
 3. From the report/communication standpoint, you will have to produce a report document that is not just a boring list of code-and-output without a narrative.  
   
+<<<<<<< HEAD
 (copied from Professor Sanchez's workout assignment instruction)  
 
+=======
+(copied from Professor Sanchez's workout assignment instruction)
+>>>>>>> 67ed02c7174781b7c32cc04a6274cb5d6daa94be
 
