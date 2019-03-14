@@ -220,8 +220,8 @@ When it comes to which player is a better clutch performer on the Golden State W
 References
 ----------
 
-[First Photo](https://www.youtube.com/watch?v=hzfh5nIHM0g)
-[Second Photo](http://www.espn.com/espn/feature/story/_/id/19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant)
-[Clutch Time Stats](http://www.nbaminer.com/clutch-time-stats/)
-[Understanding Clutch Time Decisions: Myths and Truths (by Konstantinos Kotzias)](https://statathlon.com/understanding_clutch_time/)
-[Analytics & Shot Selection (by Stephen Shea)](https://shottracker.com/articles/analytics-shot-selection)
+-   [First Photo](https://www.youtube.com/watch?v=hzfh5nIHM0g)
+-   [Second Photo](http://www.espn.com/espn/feature/story/_/id/19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant)
+-   [Clutch Time Stats](http://www.nbaminer.com/clutch-time-stats/)
+-   [Understanding Clutch Time Decisions: Myths and Truths (by Konstantinos Kotzias)](https://statathlon.com/understanding_clutch_time/)
+-   [Analytics & Shot Selection (by Stephen Shea)](https://shottracker.com/articles/analytics-shot-selection)
