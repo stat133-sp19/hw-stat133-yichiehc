@@ -25,9 +25,9 @@ This report works on some shooting data of the NBA team Golden State Warriors' f
 * Intruduction  
 * Data  
 * Analysis  
-1. Effective Shooting Percentage  
-2. Shot Charts  
-3. Effective Shooting Percentage of Last 5 Minutes  
+  1. Effective Shooting Percentage  
+  2. Shot Charts  
+  3. Effective Shooting Percentage of Last 5 Minutes  
 * Conclution  
 * References  
   
