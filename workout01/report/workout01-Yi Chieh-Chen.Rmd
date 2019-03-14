@@ -19,7 +19,7 @@ shotsdata <- read.csv("../data/shots-data.csv", colClasses = datatype, stringsAs
 
 
 
-# Who Has the Best Clutch Time Performance on Golden State Warriors?
+# Who Has the Best Clutch Time Performance on the Golden State Warriors?
 
 ```{r photo1, out.width='80%', echo=FALSE, fig.align='center'}
 knitr::include_graphics('../images/photos/GSW.jpg')

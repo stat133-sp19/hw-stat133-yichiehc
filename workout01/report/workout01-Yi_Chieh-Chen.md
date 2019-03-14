@@ -3,8 +3,8 @@ Workout 01: GSW Shot Charts
 Yi Chieh Chen
 March 12, 2019
 
-Who Has the Best Clutch Time Performance on Golden State Warriors?
-==================================================================
+Who Has the Best Clutch Time Performance on the Golden State Warriors?
+======================================================================
 
 <img src="../images/photos/GSW.jpg" width="80%" style="display: block; margin: auto;" />
 
