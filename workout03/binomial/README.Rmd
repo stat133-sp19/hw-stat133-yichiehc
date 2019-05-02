@@ -1,0 +1,94 @@
+---
+output:
+  github_document:
+    html_preview: false
+---
+
+<!-- README.md is generated from README.Rmd. Please edit README.Rmd -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# R Package binomial  
+  
+This is a workout assignment from [STAT133]Concepts in Computing with Data.  
+  
+The purpose of this assignment is to create an R package that implements functions for calculating probabilities of a binomial random variable, and related calculations such as the probability distribution, the expected value, variance, etc.  
+  
+***  
+  
+  
+## Overview
+
+In this R package:  
+- `bin_distribution()` will return a data frame of class `bindis`, with two columns success, probability, and cumulative probability.
+- `bin_cumulative()` will return a data frame of class `bincum`, with two columns success, probability, and cumulative probability in the third.
+- `bin_variable()` will return an object of class `binvar`. 
+- `plot()` are methods for objects of classes `bindis` and `bincum`. 
+- `print()` are methods for objects of classes `binvar` and `summary.binvar`.
+- `summary()` is a method for objects of class `binvar`.
+- Description for other functions can be found in the introduction.Rmd file in the folder "vignettes".
+
+
+## Motivation  
+
+The purpose of this package is to help the author get in touched with building R packages and provide tools for calculating probabilties of binomial random variables.  
+
+
+## Installation  
+
+Install the development version from GitHub via the package `"devtools"`:
+
+``` r
+# development version from GitHub:
+install.packages("devtools") 
+# install "binomial" (without vignettes)
+devtools::install_github("stat133-sp19/hw-stat133-yichiehc/tree/master/workout03/binomial")
+# install "binomial" (with vignettes)
+devtools::install_github("stat133-sp19/hw-stat133-yichiehc/tree/master/workout03/binomial", build_vignettes = TRUE)
+```
+
+## Usage  
+
+```{r example}
+library(binomial)
+## some examples
+# binomial probability of getting 2 successes in 5 trials,assuming prob of success = 0.5
+bin_probability(success = 2, trials = 5, prob = 0.5)
+# binomial probability distribution of getting possible successes in 5 trials,assuming prob of success = 0.5
+bin_distribution(trials = 5, prob = 0.5)
+# plotting binomial probability distribution
+dis1 <- bin_distribution(trials = 5, prob = 0.5)
+plot(dis1)
+# binomial cumulative distribution  of getting possible successes in 5 trials,assuming prob of success = 0.5
+bin_cumulative(trials = 5, prob = 0.5)
+# plotting binomial cumulative distribution
+dis2 <- bin_cumulative(trials = 5, prob = 0.5)
+plot(dis2)
+# binomial variable
+bin1 <- bin_variable(trials = 10, p = 0.3)
+bin1
+# summary of a binomial variable
+bin1 <- bin_variable(trials = 10, p = 0.3)
+binsum1 <- summary(bin1)
+binsum1
+# functions of measures
+bin_mean(10,0.3)
+bin_variance(10, 0.3)
+bin_mode(10, 0.3)
+bin_skewness(10, 0.3)
+bin_kurtosis(10, 0.3)
+```  
+  
+***  
+  
+  
+### **Author**  
+Yi Chieh Chen  
+  
+  
